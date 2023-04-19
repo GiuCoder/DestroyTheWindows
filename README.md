@@ -4,7 +4,7 @@ DestroyTheWindows
 
 # Download the script
 ```
- Invoke-WebRequest -Uri "https://raw.githubusercontent.com/GiuCoder/ChangeTheLanguage/main/changethelanguage.ps1" -OutFile "changethelanguage.ps1"
+ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/GiuCoder/DestroyTheWindows/main/DestroyThemm.ps1" -OutFile "DestroyThemm.ps1"
 ```
 
 
