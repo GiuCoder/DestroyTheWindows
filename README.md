@@ -10,5 +10,5 @@ DestroyTheWindows
 
 # Run the script
 ```
-./DestroyThem.ps1
+./DestroyThemm.ps1
 ```
